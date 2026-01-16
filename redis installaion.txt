@@ -1,0 +1,15 @@
+For MAC OS
+
+# Install Redis
+brew install redis
+
+# Start Redis server
+brew services start redis
+
+# Or run it manually (foreground)
+redis-server
+
+
+For Windows 
+
+https://github.com/tporadowski/redis/releases
